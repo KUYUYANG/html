@@ -1,14 +1,4 @@
 <?php
+    //echo 輸出指令
 echo"hello world!";
 ?>
-
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title></title>
-    </head>
-    <body>
-        
-    </body>
-</html>
